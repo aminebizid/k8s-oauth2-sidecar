@@ -1,0 +1,4 @@
+flask
+PyJWT
+gevent==1.4.0  # green threads (for gunicorn)
+gunicorn==19.9.0
